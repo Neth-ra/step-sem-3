@@ -3,4 +3,5 @@
 - Completed Week 2 class and assignment problems.
 - Completed Week 4 class and assignment problems.
 - Completed Week 5 class and assignment problems.
+- Completed Week 6 class and assignment problems.
 ---
